@@ -26,8 +26,6 @@ Microservicio REST enfocado en evaluar la conformidad de contenidos educativos y
      ```
    O usa `npm start` para producción. Por defecto, el servicio se ejecuta en el puerto 3000 (configurable mediante la variable de entorno PORT).
 
-
-
 4. Probar los endpoints REST mínimos:
 
     - **Health Check** 
