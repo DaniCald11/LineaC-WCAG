@@ -1,7 +1,7 @@
 {
   "name": "lineac-wcag",
   "version": "1.0.0",
-  "description": "",
+  "description": "Microservicio REST para la verificación de criterios de accesibilidad web WCAG 2.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,8 +13,11 @@
     "url": "git+https://github.com/DaniCald11/LineaC-WCAG.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "DaniCald11",
   "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/DaniCald11/LineaC-WCAG/issues"
